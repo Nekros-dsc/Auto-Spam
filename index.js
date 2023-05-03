@@ -1,3 +1,4 @@
+// By https://github.com/Nekros-dsc
 const { Client } = require('discord.js-selfbot-v13');
 const config = require('./config');
 const prefix = config.client.prefix;
